@@ -6,7 +6,7 @@
 - context API
 
 <hr />
-
+<img src="https://github.com/Jenna-P/react_dashboard/blob/2270038c14d74cbfcadda086a41d9fe926bde045/public/Sk%C3%A6rmbillede%202022-04-15%20kl.%2012.57.52.png" width=400>
 
 ## Getting Started with Create React App
 
