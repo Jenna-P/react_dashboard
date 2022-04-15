@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+
+# React Practice
+### Dashbord
+- CSS and MUI (Material UI)
+- React router 
+- context API
+
+<hr />
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
